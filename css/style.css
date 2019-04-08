@@ -1,0 +1,226 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat|Roboto');
+@import url('https://fonts.googleapis.com/css?family=ZCOOL+KuaiLe');
+@import url('https://fonts.googleapis.com/css?family=Righteous');
+
+
+.logo {
+    width: 17%;
+    margin: 5px auto;
+    display: block;
+}
+
+footer {
+    background-color:#e59c13;
+    color: white;
+    position: static;
+    width:100%;
+    padding: 10px;
+    
+    
+}
+
+.lorem-ipsum {
+    font-weight:bolder;
+    font-family: calibri;
+}
+
+.blog-content {
+    background-color: #e0e0e0;
+    margin: auto;
+    width: 80%;
+   
+    text-align: left;
+    padding: 10px;
+}
+.blog-title {
+    color: white;
+    font-size: 35px;
+    font-family: serif;
+    background: #1ac935;
+    padding: 10px;
+    margin: auto;
+    width: 80%;
+    margin-top: 25px;
+}
+
+.juice-title{
+    color: dodgerblue;
+    font-size: 35px;
+    font-family: serif;
+    background: transparent;
+    padding: 10px;
+    margin: auto;
+    width: 80%;
+}
+
+.image-lander {
+    width: 98%;
+    height: 50%;
+}
+
+#Landing-paragraph {
+    background-color: #242424;
+    text-align: center;
+    color: white;
+    padding: 5px;
+    margin: 5px;
+    text-decoration: bold;
+    font-size: 24px;
+    font-family: 'Righteous', cursive;
+}
+
+.pic-o-m3 {
+    width: 95px;
+    height: 110px;
+}
+
+.orange-top {
+    background-color:#e59c13;
+    font-size: 14px;
+    color: white;
+    text-align: left;
+    width: 100%;
+    padding: 8px;
+    font-family: 'Righteous', cursive;
+  
+}
+
+.ingredients-dude {
+    font-family: 'Roboto', sans-serif;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.literal-steps-dude {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 16px;
+}
+
+
+.recipe-images {
+    float: right;
+    width: 15%;
+    margin-right: 50px;
+}
+
+.recipe-specifics {
+    margin-left: 5%;
+}
+
+#Decal {
+    height: 32%;
+    
+}
+
+.BACKTOTOP {
+    margin: 25px;
+}
+
+.inconvienieniene {
+    margin-top: 5%;
+    margin-bottom: 5%;
+    background-color: #ff5757;
+    padding: 10px;
+    text-decoration: underline;
+}
+
+
+.formx1 {
+    font-size: 40px;
+    font-family: serif;
+    color: black;
+    font-weight: bolder;
+}
+.formx2 {
+    font-family: fantasy, sans-serif;
+    font-size: 20px;
+    font-weight: bold;
+    color: black;
+}
+
+
+
+/* Container holding the image and the text */
+.container {
+  position: relative;
+  text-align: center;
+  padding: 10px;
+  margin: 10px;
+  color: white;
+}
+
+/* Bottom left text for an image*/
+.bottom-left {
+  position: absolute;
+  bottom: 8px;
+  left: 16px;
+}
+
+/* Top left text for an image*/
+.top-left {
+  position: absolute;
+  top: 8px;
+  left: 16px;
+}
+
+/* Top right text for an image*/
+.top-right {
+  position: absolute;
+  top: 8px;
+  right: 16px;
+}
+
+/* Bottom right text for an image*/
+.bottom-right {
+  position: absolute;
+  bottom: 8px;
+  right: 16px;
+}
+
+/* Centered text for an image*/
+.centered {
+  position:absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
