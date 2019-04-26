@@ -4,7 +4,7 @@
 
 
 .logo {
-    width: 17%;
+    width: 350px;
     margin: 5px auto;
     display: block;
 }
@@ -24,17 +24,21 @@ footer {
     font-family: calibri;
 }
 
+#the-blogs {
+    margin-top: 5%;
+}
+
 .blog-content {
     background-color: #e0e0e0;
     margin: auto;
     width: 80%;
-   
+    font-size: 20px;
     text-align: left;
     padding: 10px;
 }
 .blog-title {
     color: white;
-    font-size: 35px;
+    font-size: 50px;
     font-family: serif;
     background: #1ac935;
     padding: 10px;
@@ -45,7 +49,7 @@ footer {
 
 .juice-title{
     color: dodgerblue;
-    font-size: 35px;
+    font-size: 45px;
     font-family: serif;
     background: transparent;
     padding: 10px;
@@ -70,8 +74,8 @@ footer {
 }
 
 .pic-o-m3 {
-    width: 95px;
-    height: 110px;
+    width: 6%;
+    margin-left: 3%;
 }
 
 .orange-top {
@@ -87,20 +91,20 @@ footer {
 
 .ingredients-dude {
     font-family: 'Roboto', sans-serif;
-    font-size: 24px;
+    font-size: 30px;
     font-weight: bold;
 }
 
 .literal-steps-dude {
     font-family: 'Montserrat', sans-serif;
-    font-size: 16px;
+    font-size: 25px;
 }
 
 
 .recipe-images {
     float: right;
-    width: 15%;
-    margin-right: 50px;
+    width: 20%;
+    margin-right: 5%;
 }
 
 .recipe-specifics {
@@ -108,7 +112,7 @@ footer {
 }
 
 #Decal {
-    height: 32%;
+    height: 40%;
     
 }
 
@@ -189,10 +193,38 @@ footer {
     margin-top: 10%;
 }
 
+.extrastuff {
+    font-size: 20px;
+}
 
 
+/* 
 
+---IMAGES USED---
 
+---Home---
+images/Untitled%20drawing.png
+images/JuicyJ'sNEWESTLANDINGPAGE.jpg
+
+---Merch---
+images/Untitled%20drawing.png
+images/Juicy%20J's%20Shirt.jpg
+images/Untitled%20drawing.png
+images/Juicy J's Protein Packet _0.jpg
+images/Smoothie examples.jpg
+
+---Recipes---
+images/Untitled%20drawing.png
+images/orange-juice-2816863_960_720.jpg
+images/peach.juice-yasssssssssss.png
+images/strawberrysmoothie.jpg
+images/beverage-close-up-cold-1498960.jpg
+
+---Blogs---
+images/Untitled%20drawing.png
+images/Crawdaddy.png
+images/Crawdaddy(2).png
+*/
 
 
 
