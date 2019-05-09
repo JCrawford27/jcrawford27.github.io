@@ -32,13 +32,13 @@ footer {
     background-color: #e0e0e0;
     margin: auto;
     width: 80%;
-    font-size: 20px;
+    font-size: 30px;
     text-align: left;
     padding: 10px;
 }
 .blog-title {
     color: white;
-    font-size: 50px;
+    font-size: 60px;
     font-family: serif;
     background: #1ac935;
     padding: 10px;
@@ -49,7 +49,7 @@ footer {
 
 .juice-title{
     color: dodgerblue;
-    font-size: 45px;
+    font-size: 55px;
     font-family: serif;
     background: transparent;
     padding: 10px;
@@ -69,18 +69,18 @@ footer {
     padding: 5px;
     margin: 5px;
     text-decoration: bold;
-    font-size: 24px;
+    font-size: 30px;
     font-family: 'Righteous', cursive;
 }
 
 .pic-o-m3 {
-    width: 6%;
+    width: 10%;
     margin-left: 3%;
 }
 
 .orange-top {
     background-color:#e59c13;
-    font-size: 14px;
+    font-size: 25px;
     color: white;
     text-align: left;
     width: 100%;
@@ -91,13 +91,13 @@ footer {
 
 .ingredients-dude {
     font-family: 'Roboto', sans-serif;
-    font-size: 30px;
+    font-size: 40px;
     font-weight: bold;
 }
 
 .literal-steps-dude {
     font-family: 'Montserrat', sans-serif;
-    font-size: 25px;
+    font-size: 35px;
 }
 
 
@@ -130,14 +130,14 @@ footer {
 
 
 .formx1 {
-    font-size: 40px;
+    font-size: 50px;
     font-family: serif;
     color: black;
     font-weight: bolder;
 }
 .formx2 {
     font-family: fantasy, sans-serif;
-    font-size: 20px;
+    font-size: 30px;
     font-weight: bold;
     color: black;
 }
