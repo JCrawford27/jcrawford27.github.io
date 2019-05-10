@@ -15,14 +15,9 @@ footer {
     position: static;
     width:100%;
     padding: 10px;
-    
-    
+    font-size: 20px;  
 }
 
-.lorem-ipsum {
-    font-weight:bolder;
-    font-family: calibri;
-}
 
 #the-blogs {
     margin-top: 5%;
@@ -30,20 +25,18 @@ footer {
 
 .blog-content {
     background-color: #e0e0e0;
-    margin: auto;
-    width: 80%;
-    font-size: 30px;
+    margin-left: 10px;
+    font-size: 20px;
     text-align: left;
     padding: 10px;
 }
 .blog-title {
     color: white;
-    font-size: 60px;
+    font-size: 40px;
     font-family: serif;
     background: #1ac935;
     padding: 10px;
-    margin: auto;
-    width: 80%;
+    margin-left: 10px;
     margin-top: 25px;
 }
 
@@ -69,7 +62,7 @@ footer {
     padding: 5px;
     margin: 5px;
     text-decoration: bold;
-    font-size: 30px;
+    font-size: 25px;
     font-family: 'Righteous', cursive;
 }
 
@@ -80,7 +73,7 @@ footer {
 
 .orange-top {
     background-color:#e59c13;
-    font-size: 25px;
+    font-size: 15px;
     color: white;
     text-align: left;
     width: 100%;
@@ -91,13 +84,13 @@ footer {
 
 .ingredients-dude {
     font-family: 'Roboto', sans-serif;
-    font-size: 40px;
+    font-size: 25px;
     font-weight: bold;
 }
 
 .literal-steps-dude {
     font-family: 'Montserrat', sans-serif;
-    font-size: 35px;
+    font-size: 20px;
 }
 
 
@@ -113,7 +106,13 @@ footer {
 
 #Decal {
     height: 40%;
+    margin: 10px;
     
+}
+
+#DecaLL {
+    height: 35%;
+    margin: 10px;
 }
 
 .BACKTOTOP {
@@ -136,13 +135,15 @@ footer {
     font-weight: bolder;
 }
 .formx2 {
-    font-family: fantasy, sans-serif;
+    font-family: serif;
     font-size: 30px;
     font-weight: bold;
     color: black;
 }
 
-
+.navbar {
+    margin: 10px;
+}
 
 /* Container holding the image and the text */
 .container {
